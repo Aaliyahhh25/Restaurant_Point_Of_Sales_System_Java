@@ -17,7 +17,7 @@ For Admin:
 
 Sample Video of the System:
 
-https://user-images.githubusercontent.com/87411168/210356757-a4a65b8e-2fef-43e9-a57d-d7411e139b3f.mp4
 
+https://user-images.githubusercontent.com/87411168/210359416-be86ad58-c539-4157-a998-bc386b2c24f2.mp4
 
 
