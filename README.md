@@ -1,18 +1,26 @@
-# Restaurant_Point_Of_Sales_System_Java
-This is a small project I worked on during my early years in college. It is a system that allows customers to browse, order, and pay online while allowing the restaurant or business to keep track of sales.
+🍽️ Restaurant Point of Sales System (Java)
+This is a small Java-based project I developed during my early college years — a Restaurant Point of Sales (POS) System that allows customers to browse, order, and pay online, while enabling restaurant staff to manage orders and track sales.
 
-Used:
-- Java (including GUI), mySQL (phpMyAdmin)
+🛠️ Technologies Used:
+Java (with GUI)
 
-For Customers:
-- can add or remove dish/es in their order
-- view menu and the promos
-- calculate the total amount of their order
-- print order and receipt
+MySQL via phpMyAdmin
 
-For Admin:
-- manage stock
-- view sales report (best and least seller)
+👥 Customer Features:
+Add or remove items from their order
+
+View menu and available promotions
+
+See a detailed order summary with item prices and total cost
+
+Print order and receipt
+
+🧑‍💼 Admin Features:
+Manage stock inventory
+
+Generate and view sales reports
+
+Identify best- and least-selling items
 
 
 Sample Video of the System:
