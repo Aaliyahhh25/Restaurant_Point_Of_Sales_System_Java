@@ -26,4 +26,4 @@ This is a small Java-based project I developed during my early college years —
 ---
 
 ## 🎥 Sample Video of the System:
-[▶️ Watch the demo](https://user-images.gi)
+[▶️ Watch the demo][(https://user-images.gi)](https://user-images.githubusercontent.com/87411168/210359416-be86ad58-c539-4157-a998-bc386b2c24f2.mp4)
