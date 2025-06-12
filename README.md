@@ -1,3 +1,5 @@
+# Restaurant_Point_Of_Sales_System_Java
+
 🍽️ Restaurant Point of Sales System (Java)
 This is a small Java-based project I developed during my early college years — a Restaurant Point of Sales (POS) System that allows customers to browse, order, and pay online, while enabling restaurant staff to manage orders and track sales.
 
